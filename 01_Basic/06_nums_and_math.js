@@ -8,9 +8,9 @@
 
 // console.log(num.toFixed(2))
 
-// const OtherNum = 123.8966
+const OtherNum = 123.8966
 
-// console.log(OtherNum.toPrecision(3))
+console.log(OtherNum.toPrecision(3))
 
 // const hund = 1000000
 
@@ -18,7 +18,7 @@
 
 // console.log(Math.floor(Math.random()*10)+1)
 
-const Max =100
-const Min = 10
+// const Max =100
+// const Min = 10
 
-console.log(Math.floor(Math.random()*(Max-Min+1)+Min));
+// console.log(Math.floor(Math.random()*(Max-Min+1)+Min));
